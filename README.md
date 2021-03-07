@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grecia!</h1>
-<h3 align="center">A passionate Full-Stack developer from Peru</h3>
+<h3 align="center">A passionate Full-Stack developer from Peru 🇵🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azucenagrecia&label=Profile%20views&color=0e75b6&style=flat" alt="azucenagrecia" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/chezzgre" target="blank"><img src="https://img.shields.io/twitter/follow/chezzgre?logo=twitter&style=for-the-badge" alt="chezzgre" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js** && **Python** 
 
-- 📫 How to reach me **greciadm2596@gmail.com**
+- 📫 How to reach me **greciadm2596@gmail.com** or **grecia.delgado@utec.edu.pe**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
