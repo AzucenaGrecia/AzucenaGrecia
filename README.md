@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/chezzgre" target="blank"><img src="https://img.shields.io/twitter/follow/chezzgre?logo=twitter&style=for-the-badge" alt="chezzgre" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js** && **Python** 
+- 🌱 I’m currently learning **LangChain** && **C++** 
 
-- 📫 How to reach me **greciadm2596@gmail.com** or **grecia.delgado@utec.edu.pe**
+- 📫 How to reach me **greciadm2596@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
