@@ -1,30 +1,46 @@
 <h1 align="center">Hi 👋, I'm Grecia!</h1>
-<h3 align="center">A passionate Full-Stack developer from Peru 🇵🇪</h3>
+<h3 align="center">Full-Stack Software Engineer | Fintech & AI Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azucenagrecia&label=Profile%20views&color=0e75b6&style=flat" alt="azucenagrecia" /> </p>
-
-
-
-<p align="left"> <a href="https://twitter.com/chezzgre" target="blank"><img src="https://img.shields.io/twitter/follow/chezzgre?logo=twitter&style=for-the-badge" alt="chezzgre" /></a> </p>
-
-- 🌱 I’m currently learning **LangChain** && **C++** 
-
-- 📫 How to reach me **greciadm2596@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/gredelga/" target="blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="gredelga LinkedIn" height="40" width="40" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=azucenagrecia&label=Profile%20views&color=0e75b6&style=flat" alt="azucenagrecia" />
 </p>
 
+## 🚀 About Me
+I am a **Full-Stack Software Engineer** with experience in **fintech** and **e-commerce** solutions, passionate about designing scalable architectures, improving performance, and automating processes with AI.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+- 🔹 Currently working at **Xepelin**, integrating **biometric validation** with **NestJS** and **SOAP**.
+- 🔹 Previously at **Kushki**, building **serverless architectures** with **AWS Lambda, S3, SQS, DynamoDB**.
+- 🔹 Skilled in **Go, TypeScript, Python, Ruby, React, NestJS, AWS**.
+- 🌱 Currently learning **LangChain** and **C++**.
+- 📫 Reach me at **greciadm2596@gmail.com**.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azucenagrecia&show_icons=true&locale=en&layout=compact" alt="azucenagrecia" /></p>
+## 📌 Featured Projects  
+- **[Biometric Validation - Xepelin](https://xepelin.com/)** → Integrated Mexico’s INE system with a Nest.js microservice.  
+- **[Cash-in & Cash-out API - Kushki](https://www.kushkipagos.com/en)** → Designed cloud-native architectures with AWS services.  
+- **[Admin Panel - B89](https://www.b89.io/)** → Built a scalable microfrontend architecture with Webpack Module Federation.  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azucenagrecia&show_icons=true&locale=en" alt="azucenagrecia" /></p>
+## 🛠️ Tech Stack
+### **Languages**  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azucenagrecia&" alt="azucenagrecia" /></p>
+### **Frameworks & Tools**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+## 🔗 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/chezzgre" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/chezzgre?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/gredelga/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/AzucenaGrecia" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
