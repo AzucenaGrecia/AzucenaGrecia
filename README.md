@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/chezzgre" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-1.png" alt="chezzgre" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/gredelga/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="https://www.linkedin.com/in/gredelga/" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/gredelga/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_174857?term=linkedin&page=1&position=16&origin=tag&related_id=174857" alt="https://www.linkedin.com/in/gredelga/" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
